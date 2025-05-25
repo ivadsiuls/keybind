@@ -1,5 +1,6 @@
 [package]
-name = "Keybind"
+name = "ivadsiuls/keybind"
+description = "DerpMonster83's keybind module for Wally."
 version = "1.0.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
